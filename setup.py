@@ -27,7 +27,7 @@ setup(
     ),
     long_description=long_description,
     long_description_content_type='text/markdown',
-    url='https://github.com/python273/vk_api',
+    url='https://github.com/Shemyako/vk_api',
     download_url=f'https://github.com/Shemyako/vk_api/archive/v{version}.zip',
     license='Apache License, Version 2.0, see LICENSE file',
     packages=['vk_api', 'jconfig'],
